@@ -2,6 +2,8 @@
 ## Edits and suggestion implemented by Arilis.
 ## https://discord.gg/arilis
 
+
+# Lua Environment
 | Name | Return | Parameters | Description | Usage |
 | :---: | :---: | :---: | :--- | :---: |
 | `Enable` | none | none | forces to enable the current script | could be useful in `OnGUIDisable` |
