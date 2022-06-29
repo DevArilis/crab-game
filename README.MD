@@ -1,6 +1,6 @@
-Original Source: https://github.com/1hAck-0/Crab-Game-1hAck-Source-Code\n
-Edits and suggestion implemented by Arilis.\n
-https://discord.gg/arilis
+##Original Source: https://github.com/1hAck-0/Crab-Game-1hAck-Source-Code\n
+##Edits and suggestion implemented by Arilis.\n
+##https://discord.gg/arilis
 
 | Name | Return | Parameters | Description | Usage |
 | :---: | :---: | :---: | :--- | :---: |
